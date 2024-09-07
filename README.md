@@ -36,16 +36,15 @@ Instala las dependencias necesarias usando pip:
 pip install selenium webdriver_manager
 
 ## Clona este repositorio:
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/zekecabre6/scrapper-plutotv
 
-cd tu_repositorio
+cd scrapper-plutotv
 
 Ejecuta el script:
 
 
-python nombre_del_script.py
+python tec.py
 
-Asegúrate de reemplazar nombre_del_script.py con el nombre real del archivo del script.
 
 ## Estructura del Código
 scrapearCanales(): Realiza el scraping de los nombres de los canales y los guarda en canales_pluto_tv.csv.
