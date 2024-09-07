@@ -1,7 +1,7 @@
 # Scraper de Canales y Contenido en Pluto TV
 Este proyecto en Python es una herramienta para extraer información de canales y contenido (películas y series) desde el sitio web Pluto TV en la región de Latinoamérica. Utiliza Selenium para automatizar la navegación en el sitio y recopilar datos relevantes.
 
-# duracion del scrapeo en condiciones normales: 55.99 minutos(se imprime al finalizar el script)
+### Duración del scrapeo en condiciones normales: 55.99 minutos(se imprime al finalizar el script)
 
 ## Descripción
 El script realiza las siguientes tareas:
