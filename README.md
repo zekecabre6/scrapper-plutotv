@@ -16,10 +16,16 @@ Extrae detalles de películas y series de varias secciones específicas.
 Guarda la información en un archivo CSV, incluyendo título, descripción, duración y enlace.
 ## Requisitos:
 Para ejecutar este script, necesitas los siguientes paquetes de Python:
+
 selenium
+
 webdriver_manager
+
 csv (incluido en la biblioteca estándar de Python)
-También necesitarás el navegador Google Chrome y el chromedriver correspondiente para Selenium. El script utiliza webdriver_manager para gestionar automáticamente la instalación del chromedriver.
+
+También necesitarás el navegador Google Chrome y el chromedriver correspondiente para Selenium. 
+
+El script utiliza webdriver_manager para gestionar automáticamente la instalación del chromedriver.
 
 ### Instalación de Dependencias
 Instala las dependencias necesarias usando pip:
